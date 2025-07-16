@@ -1,0 +1,10 @@
+name: crime_map
+title:
+username: sunilsg
+account: sunilsg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15082544
+bundleId: 10624168
+url: https://sunilsg.shinyapps.io/crime_map/
+version: 1
